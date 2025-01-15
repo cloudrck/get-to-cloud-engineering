@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       df72f1d9-65b9-45f6-85b5-40f440818c12
+:END:
+#+title: CloudEngineering
+
+* Intro
+
+** Intro to Computing
+- [[https://www.tutorialspoint.com/operating_system/os_overview.htm][Operating System - Overview]]
+- [[https://www.youtube.com/watch?v=26QPDBe-NB8][Operating Systems: Crash Course Computer Science #18 - YouTube]] 
+
+** Intro to Linux
+The only OS you need to know well is Linux. Red Hat and Debian are the two most popular distrobutions. Windows OS's are not used in any serious cloud architecture. FreeBSD/NetBSD are used in sophsticated high performance environments.
+
+- [[https://www.tutorialspoint.com/unix/index.htm][Linux/Unix Tutorial]]
+- [[https://www.bu.edu/tech/files/2018/05/2018-Summer-Tutorial-Intro-to-Linux.pdf]]
+- [[https://www.geeksforgeeks.org/linux-tutorial/][Linux/Unix Tutorial]] 
+*** Why Linux
+- [[https://www.redhat.com/en/topics/linux/linux-for-cloud-computing#benefits-of-linux][Linux for cloud computing]]
+- [[https://www.geeksforgeeks.org/why-linux-is-better/][Why Linux is Better? - GeeksforGeeks]]
+- [[https://aws.amazon.com/amazon-linux-2][Security-Focused, High-Performance Linux Environment – Amazon Linux 2 – AWS]]
+*** Roadmap
+- [[https://roadmap.sh/linux][Linux Roadmap - roadmap.sh]]
+** Open Source
+- [[https://www.cisa.gov/opensource][Open Source Security | CISA]]
+- [[https://code.nsa.gov/][Home | Open Source @ NSA]]
+- [[https://code.mil/][Code.mil]]
+- [[https://docs-ironbank.dso.mil/overview/][Overview - Iron Bank]] 
+** Intro to Networking and Basic Security
+- [[https://tryhackme.com/r/room/introtonetworking][Introductory Networking]] 
+- [[https://tryhackme.com/r/path/outline/presecurity][TryHackMe | Cyber Security Training]]
+- [[https://tryhackme.com/r/path/outline/beginner][TryHackMe - Complete Beginner]] 
+** Intro to Virtual Machines
+The majority of the cloud uses some form of virtualization hypervisor on top of physical servers/hardware.
+- [[https://www.ibm.com/think/topics/hypervisors][What Are Hypervisors? | IBM]] 
+- [[https://www.ibm.com/think/topics/virtual-machines][What Is a Virtual Machine (VM)? | IBM]] 
+** Intro to Containers
+- [[https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/][A Beginner-Friendly Introduction to Containers, VMs and Docker]]
+- [[https://www.docker.com/resources/what-container/][What is a Container? | Docker]]
+- [[https://containers-v2.holt.courses/][Complete Intro to Containers]] 
+** Intro to Cloud
+*** Intro to Cloud Providers
+- [[https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers][What are cloud service providers?]] 
+*** What is the Cloud
+- [[https://doi.org/10.6028/NIST.SP.800-145]]
+- [[https://www.geeksforgeeks.org/cloud-computing/][What Is Cloud Computing ? - GeeksforGeeks]] 
+*** Roadmap
+- [[https://roadmap.sh/aws][AWS Roadmap - roadmap.sh]]
+- [[https://github.com/mikeroyal/Azure-Guide][GitHub - mikeroyal/Azure-Guide: Microsoft Azure Guide. Learn all about Micros...]]
+- [[https://www.youtube.com/watch?v=fZOz13joN0o][Google Cloud Platform Full Course 2023 | GCP Tutorial | VPC | Compute Engine ...]] 
+
+* Security
+
+** Software
+- [[https://www.cisa.gov/resources-tools/resources/cisa-open-source-software-security-roadmap][CISA Open Source Software Security Roadmap | CISA]] 
+- [[https://github.com/cisagov/development-guide/blob/develop/open-source-policy/policy.md][development-guide/open-source-policy/policy.md at develop · cisagov/developme...]] 
+
+** Implementation
+- [[https://public.cyber.mil/stigs/][Security Technical Implementation Guides (STIGs) – DoD Cyber Exchange]]
+- [[https://www.cisecurity.org/controls][CIS Critical Security Controls]]
+- [[https://cloudsecurityalliance.org/research/cloud-controls-matrix][Cloud Controls Matrix | CSA]] 
+
+* Standards
+
+** NIST
+- [[https://csrc.nist.gov/pubs/sp/800/144/final][SP 800-144, Guidelines on Security and Privacy in Public Cloud Computing | CSRC]]
+- [[https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final][SP 800-53 Rev. 5, Security and Privacy Controls for Information Systems and O...]] 
+
+** CSA
+- [[https://cloudsecurityalliance.org/star][STAR | CSA]] 
+
+** FedRAMP
+- [[https://www.fedramp.gov/program-basics/][Learn What FedRAMP is All About | FedRAMP | FedRAMP.gov]] 
+
+** FIPS
+- [[https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips][Compliance FAQs: Federal Information Processing Standards (FIPS) | NIST]] 
+
+* Careers
+
+** Veteran Resources
+- [[https://www.hiringourheroes.org/career-services/][Career Services Overview - Hiring Our Heroes]]
+- [[https://ivmf.syracuse.edu/programs/career-training/][Career Training - D'Aniello Institute for Veterans and Military Families]]
+- [[https://niccs.cisa.gov/education-training/cybersecurity-veterans][Cybersecurity for Veterans | NICCS]]
+- [[https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/][Eligibility For Veteran Readiness And Employment | Veterans Affairs]] 
+
+** Cloud Engineering
+- [[https://www.geeksforgeeks.org/how-to-become-a-cloud-engineer/][How to Become a Cloud Engineer: A Complete Guide {2025} - GeeksforGeeks]]
+- [[https://www.geeksforgeeks.org/what-is-a-cloud-engineer/][What is a Cloud Engineer - Education, Skills, Salary, and Career{2024} - Geek...]]
+- [[https://pg-p.ctme.caltech.edu/blog/cloud-computing/how-to-become-a-cloud-engineer-a-complete-guide][How to Become a Cloud Engineer in 2024? A Complete Guide]] 
+
+** DevOps
+- [[https://roadmap.sh/devops][DevOps Roadmap: Learn to become a DevOps Engineer or SRE]]
+
+** Governance, Risk, and Compliance (GRC)
+- [[https://thesecmaster.com/blog/how-to-start-a-career-in-governance-risk-and-compliance-grc][GRC Careers: Pathways & Key Skills Guide]]
+
+* Education Videos
+- [[https://youtu.be/zOjov-2OZ0E?si=D5mXhQmDjj1xwao4][Introduction to Programming and Computer Science - Full Course - YouTube]]
+- [[https://youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&si=tpTB-10bRjn3aMVj][Stanford CS105 - Introduction to Computers Full Course - YouTube]]
+- [[https://youtu.be/GneIpdOirZY?si=AhEOQ-uudJsEpJuO][Cloud 101: An Introduction to Cloud Computing | AWS Public Sector - YouTube]] 
+
+* Free MIT OpenCourses
+- [[https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/][Information Technology Essentials | Sloan School of Management | MIT OpenCour...]]
+- [[https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/][Computer Networks | Electrical Engineering and Computer Science | MIT OpenCou...]]
+- [[https://ocw.mit.edu/courses/6-5660-computer-systems-security-spring-2024/][Computer Systems Security | Electrical Engineering and Computer Science | MIT...]]
+- [[https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/][Introduction to Computer Science and Programming | Electrical Engineering and...]]
+- [[https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/][Computer System Architecture | Electrical Engineering and Computer Science | ...]] 
+- [[https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/][Database Systems | Electrical Engineering and Computer Science | MIT OpenCour...]] 
