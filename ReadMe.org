@@ -10,7 +10,7 @@
 - [[https://www.youtube.com/watch?v=26QPDBe-NB8][Operating Systems: Crash Course Computer Science #18 - YouTube]] 
 
 ** Intro to Linux
-The only OS you need to know well is Linux. Red Hat and Debian are the two most popular distrobutions. Windows OS's are not used in any serious cloud architecture. FreeBSD/NetBSD are used in sophsticated high performance environments.
+The only OS you need to know well is Linux. Red Hat and Debian are the two most popular distributions. Windows OS's are not used in any serious cloud architecture outside of those dependent upon .NET and/or Microsoft products. FreeBSD/NetBSD are used in sophsticated high performance environments.
 
 - [[https://www.tutorialspoint.com/unix/index.htm][Linux/Unix Tutorial]]
 - [[https://www.bu.edu/tech/files/2018/05/2018-Summer-Tutorial-Intro-to-Linux.pdf]]
