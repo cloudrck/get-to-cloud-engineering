@@ -22,6 +22,8 @@ The only OS you need to know well is Linux. Red Hat and Debian are the two most 
 *** Roadmap
 - [[https://roadmap.sh/linux][Linux Roadmap - roadmap.sh]]
 ** Open Source
+- [[https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved][Open-source software: why it matters and how to get involved | The Alan Turin...]] 
+- [[http://events17.linuxfoundation.org/sites/events/files/slides/Open%20Source%20Summit%20Japan%20FINAL%2016x9.pdf]] 
 - [[https://www.cisa.gov/opensource][Open Source Security | CISA]]
 - [[https://code.nsa.gov/][Home | Open Source @ NSA]]
 - [[https://code.mil/][Code.mil]]
@@ -29,7 +31,8 @@ The only OS you need to know well is Linux. Red Hat and Debian are the two most 
 ** Intro to Networking and Basic Security
 - [[https://tryhackme.com/r/room/introtonetworking][Introductory Networking]] 
 - [[https://tryhackme.com/r/path/outline/presecurity][TryHackMe | Cyber Security Training]]
-- [[https://tryhackme.com/r/path/outline/beginner][TryHackMe - Complete Beginner]] 
+- [[https://tryhackme.com/r/path/outline/beginner][TryHackMe - Complete Beginner]]
+- [[https://intronetworks.cs.luc.edu/][An Introduction to Computer Networks]] 
 ** Intro to Virtual Machines
 The majority of the cloud uses some form of virtualization hypervisor on top of physical servers/hardware.
 - [[https://www.ibm.com/think/topics/hypervisors][What Are Hypervisors? | IBM]] 
